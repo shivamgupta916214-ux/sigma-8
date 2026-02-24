@@ -1,2 +1,2 @@
-# New project
-This is create a new project
+# sigma-8
+This is a fullstack course 
